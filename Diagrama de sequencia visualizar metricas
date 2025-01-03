@@ -56,7 +56,7 @@
           <mxGeometry x="100" y="40" width="17.5" height="280" as="geometry" />
         </mxCell>
         <mxCell id="cBc3RIeJhXEvmH25i1VY-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="cBc3RIeJhXEvmH25i1VY-10">
-          <mxGeometry x="5" y="70" width="10" height="180" as="geometry" />
+          <mxGeometry x="5" y="70" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cBc3RIeJhXEvmH25i1VY-12" value="Visualizar métricas" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;startFill=0;" edge="1" parent="1" source="cBc3RIeJhXEvmH25i1VY-11" target="cBc3RIeJhXEvmH25i1VY-2">
           <mxGeometry relative="1" as="geometry">
