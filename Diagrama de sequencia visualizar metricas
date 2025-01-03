@@ -90,7 +90,7 @@
             <mxPoint x="295" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBc3RIeJhXEvmH25i1VY-39" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="cBc3RIeJhXEvmH25i1VY-39" value="Exibir métricas" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="285" y="270" as="sourcePoint" />
             <mxPoint x="115" y="270" as="targetPoint" />
